@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sean Choi 
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. in Electrical Engineering, M.S. in Computer Science 
 
 # Organizations/Affiliations
 organizations:
@@ -21,21 +21,24 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Center Network
+- Cloud Infrastructure
+- Cloud Services
+- Serverless Compute
+- SmartNICs
+- Programmable Network
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Ph.D. in Electrical Engineering
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2019
+  - course: M.S. in Computer Science
+    institution: Stanford University
+    year: 2013
+  - course: Dual B.S. in Computer Science & Business Economics and Management 
+    institution: Stanford University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sean Choi is a Ph.D. in the electrical engineering department at Stanford University. I am fortunate to be advised by my advisor, Professor Mendel Rosenblum. I have completed a M.S. degree in computer science at Stanford University and B.S. degree in computer science and business economics and management at California Institute of Technology. After finishing my masters degree and before returning as a Ph.D. student, I worked at LinkedIn as a data engineer and worked at VMware as a senior member of technical staff. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My current research work is about adding programmability to network switches and network interface cards (NIC) and finding new use cases for the newly available programmable hardware. My work involves building an open, more programmable and scalable switch software (FBOSS) and building a framework to enable low-latency serverless compute using SmartNICs.
+
