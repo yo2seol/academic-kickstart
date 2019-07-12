@@ -72,8 +72,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Sean Choi is a Ph.D. in the electrical engineering department at Stanford University. He is advised by Professor Mendel Rosenblum, one of the founders of VMWare and the recipient of ACM Thacker breakthrough in computing award. Sean completed a M.S. degree in computer science at Stanford University and B.S. degree in computer science and business economics and management at California Institute of Technology. After finishing the masters degree and before returning as a Ph.D. student, Sean worked at LinkedIn as a data engineer and worked at VMware as a senior member of technical staff.
 
-Sean Choi is a Ph.D. in the electrical engineering department at Stanford University. I am fortunate to be advised by my advisor, Professor Mendel Rosenblum. I have completed a M.S. degree in computer science at Stanford University and B.S. degree in computer science and business economics and management at California Institute of Technology. After finishing my masters degree and before returning as a Ph.D. student, I worked at LinkedIn as a data engineer and worked at VMware as a senior member of technical staff. 
-
-My current research work is about adding programmability to network switches and network interface cards (NIC) and finding new use cases for the newly available programmable hardware. My work involves building an open, more programmable and scalable switch software (FBOSS) and building a framework to enable low-latency serverless compute using SmartNICs.
+His current research work is about adding programmability to network switches and network interface cards (NIC) and finding new use cases for the newly available programmable hardware. My work involves building an open, more programmable and scalable switch software (FBOSS) and building a framework to enable low-latency serverless compute using SmartNICs.
 
