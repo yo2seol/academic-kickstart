@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -13,7 +13,7 @@ subtitle = ""
   page_type = "project"
   
   # Filter toolbar (optional).
-  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
+  # Add or remove as many filters (`[30ontent.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
@@ -26,12 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Cloud Services"
+    tag = "Cloud Services"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Network Software"
+    tag = "Network Software"
+
+  [[content.filter_button]]
+    name = "Programmable Network"
+    tag = "Programmable Network"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
