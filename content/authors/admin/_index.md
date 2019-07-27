@@ -51,6 +51,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/seanschoi/
+- icon: medium 
+  icon_pack: fab
+  link: https://medium.com/@seanschoi
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_N-bcZgAAAAJ
