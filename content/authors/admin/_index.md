@@ -37,7 +37,7 @@ education:
     institution: Stanford University
     year: 2013
   - course: Dual B.S. in Computer Science & Business Economics and Management 
-    institution: Stanford University
+    institution: California Institute of Technology 
     year: 2011
 
 # Social/Academic Networking
