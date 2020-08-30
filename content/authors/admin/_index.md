@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sean Choi 
+title: Sean Choi 
 
 # Username (this should match the folder name)
 authors:
@@ -41,7 +41,7 @@ education:
     year: 2011
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
@@ -68,9 +68,9 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
@@ -78,4 +78,3 @@ user_groups:
 Sean Choi is a Ph.D. in the electrical engineering department at Stanford University. He is advised by Professor Mendel Rosenblum, one of the founders of VMWare and the recipient of ACM Thacker breakthrough in computing award. Sean completed a M.S. degree in computer science at Stanford University and B.S. degree in computer science and business economics and management at California Institute of Technology. After finishing the masters degree and before returning as a Ph.D. student, Sean worked at LinkedIn as a data engineer and worked at VMware as a senior member of technical staff.
 
 His current research work is about adding programmability to network switches and network interface cards (NIC) and finding new use cases for the newly available programmable hardware. My work involves building an open, more programmable and scalable switch software (FBOSS) and building a framework to enable low-latency serverless compute using SmartNICs.
-
