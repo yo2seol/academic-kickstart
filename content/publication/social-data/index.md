@@ -1,7 +1,7 @@
 ---
 title: Social Data and College Statistics
 date: '2012-09-01'
-publishDate: '2020-08-30T23:29:26.821309Z'
+publishDate: '2020-08-31T01:08:50.208200Z'
 authors:
 - Sean Choi
 - Elena Grewal

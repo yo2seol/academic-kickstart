@@ -2,7 +2,7 @@
 title: Toward Scalable Replication Systems with Predictable Tails Using Programmable
   Data Planes
 date: '2019-01-01'
-publishDate: '2020-08-30T23:29:26.243620Z'
+publishDate: '2020-08-31T01:08:49.537334Z'
 authors:
 - Sean Choi
 - Seo Jin Park

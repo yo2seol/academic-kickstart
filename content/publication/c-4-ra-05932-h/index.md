@@ -1,7 +1,7 @@
 ---
 title: Integrated bioprinting and imaging for scalable, networkable desktop experimentation
 date: '2014-01-01'
-publishDate: '2020-08-30T23:29:26.670643Z'
+publishDate: '2020-08-31T01:08:50.035897Z'
 authors:
 - Nathan D. Orloff
 - Cynthia Truong

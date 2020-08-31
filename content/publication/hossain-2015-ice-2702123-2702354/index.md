@@ -1,7 +1,7 @@
 ---
 title: 'Interactive Cloud Experimentation for Biology: An Online Education Case Study'
 date: '2015-01-01'
-publishDate: '2020-08-30T23:29:26.598552Z'
+publishDate: '2020-08-31T01:08:49.951136Z'
 authors:
 - Zahid Hossain
 - Xiaofan Jin
