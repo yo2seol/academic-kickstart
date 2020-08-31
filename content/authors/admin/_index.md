@@ -2,15 +2,11 @@
 # Display name
 title: Sean Choi 
 
-# Username (this should match the folder name)
-authors:
-- admin
-
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ph.D. in Electrical Engineering, M.S. in Computer Science 
+role: Research Scientist @ Facebook, Ph.D. in Electrical Engineering, M.S. in Computer Science 
 
 # Organizations/Affiliations
 organizations:
@@ -55,7 +51,7 @@ social:
   icon_pack: fab
   link: https://medium.com/@seanschoi
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: ai 
   link: https://scholar.google.com/citations?user=_N-bcZgAAAAJ
 - icon: github
   icon_pack: fab
@@ -63,7 +59,7 @@ social:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
-  icon_pack: ai
+  icon_pack: ai 
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -75,6 +71,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Sean Choi is a Ph.D. in the electrical engineering department at Stanford University. He is advised by Professor Mendel Rosenblum, one of the founders of VMWare and the recipient of ACM Thacker breakthrough in computing award. Sean completed a M.S. degree in computer science at Stanford University and B.S. degree in computer science and business economics and management at California Institute of Technology. After finishing the masters degree and before returning as a Ph.D. student, Sean worked at LinkedIn as a data engineer and worked at VMware as a senior member of technical staff.
+Sean Choi is current a Research Scientist at Facebook, working on scaling and improving Facebook's data center networks.
 
-His current research work is about adding programmability to network switches and network interface cards (NIC) and finding new use cases for the newly available programmable hardware. My work involves building an open, more programmable and scalable switch software (FBOSS) and building a framework to enable low-latency serverless compute using SmartNICs.
+Previously, Sean completed his Ph.D. in electrical engineering at Stanford University. He was advised by Professor Mendel Rosenblum, one of the founders of VMWare and the recipient of ACM Thacker breakthrough in computing award. Sean completed a M.S. degree in computer science at Stanford University and B.S. degree in computer science and business economics and management at California Institute of Technology. During the intrim between the end of his M.S. and the start of his Ph.D., Sean worked at LinkedIn as a data engineer and worked at VMware as a senior member of technical staff. He also founded multiple companies in the area of machine learning and image recognition.
+
+His research focus is on adding programmability to network switches and network interface cards (NIC) and finding new use cases for the newly available programmable hardware in the areas of data analytics and machine learning.
