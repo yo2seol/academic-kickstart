@@ -1,3 +1,14 @@
+# Notes for self
+
+- Building Hugo: `hugo`
+- Running a local version:  `hugo --preview`
+- Enable AI pack for CV icon:  Set `ai = true` in `./config/_default/params.toml` 
+- Adding new talk: `hugo new --kind talk talk/my-talk-name`
+- Changing CV location: `./content/authors/admin/_index.md`
+
+
+
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
